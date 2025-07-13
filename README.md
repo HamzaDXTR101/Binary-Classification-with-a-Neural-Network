@@ -37,6 +37,8 @@ This project implements a **binary classification model** for predicting diabete
 
 A full LaTeX-written report is available in [Rapport_MLP_PimaDiabetes.pdf](Rapport_MLP_PimaDiabetes.pdf), structured in IMRAD format.
 
+Solution de cette TP google colab : https://colab.research.google.com/drive/1p__Vvzekp4bBvBIb7ilZXPANcCJSGkFi?usp=sharing
+
 ## Requirements
 
 Install required packages:
