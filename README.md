@@ -1,4 +1,4 @@
-# Binary Classification – Pima Indians Diabetes with a Neural Network (From Scratch)
+# Classification binaire – Diabète des Indiens Pima avec un réseau neuronal
 
 This project implements a **binary classification model** for predicting diabetes based on the Pima Indians dataset (Kaggle), using a **Multilayer Perceptron (MLP)** coded entirely from scratch with `NumPy`.
 
